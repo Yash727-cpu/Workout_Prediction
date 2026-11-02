@@ -1,0 +1,37 @@
+goal,level,duration_min,equipment,workout,estimated_calories,intensity
+Weight Loss,Beginner,15,No Equipment,Brisk Walking,90,Low
+Weight Loss,Beginner,20,No Equipment,Marching in Place,100,Low
+Weight Loss,Beginner,25,No Equipment,Low-Impact Cardio,140,Medium
+Weight Loss,Intermediate,20,Dumbbells,Dumbbell Circuit,180,Medium
+Weight Loss,Intermediate,30,No Equipment,Jogging Intervals,220,High
+Weight Loss,Intermediate,30,Jump Rope,Jump Rope Intervals,280,High
+Weight Loss,Advanced,30,No Equipment,HIIT Bodyweight Circuit,300,High
+Weight Loss,Advanced,40,Dumbbells,Full-Body Strength Circuit,340,High
+Muscle Gain,Beginner,20,Dumbbells,Beginner Dumbbell Strength,130,Medium
+Muscle Gain,Beginner,25,Resistance Band,Resistance Band Basics,120,Low
+Muscle Gain,Intermediate,30,Dumbbells,Dumbbell Upper Body,220,Medium
+Muscle Gain,Intermediate,35,Dumbbells,Full-Body Dumbbell Workout,270,High
+Muscle Gain,Intermediate,30,Resistance Band,Resistance Band Strength,190,Medium
+Muscle Gain,Advanced,40,Dumbbells,Progressive Strength Training,330,High
+Muscle Gain,Advanced,45,Barbell,Compound Strength Workout,380,High
+Muscle Gain,Advanced,40,Gym Machines,Machine-Based Strength,320,High
+Flexibility,Beginner,10,No Equipment,Gentle Stretching,35,Low
+Flexibility,Beginner,15,Yoga Mat,Beginner Yoga Flow,50,Low
+Flexibility,Beginner,20,Yoga Mat,Mobility and Stretching,60,Low
+Flexibility,Intermediate,25,Yoga Mat,Full-Body Yoga,90,Medium
+Flexibility,Intermediate,20,No Equipment,Dynamic Mobility Routine,75,Medium
+Flexibility,Advanced,30,Yoga Mat,Advanced Yoga Flow,130,Medium
+General Fitness,Beginner,15,No Equipment,Bodyweight Basics,70,Low
+General Fitness,Beginner,20,No Equipment,Beginner Full-Body Routine,100,Low
+General Fitness,Intermediate,25,No Equipment,Bodyweight Strength Circuit,160,Medium
+General Fitness,Intermediate,30,Dumbbells,Full-Body Fitness Circuit,230,Medium
+General Fitness,Intermediate,35,Resistance Band,Resistance Band Full Body,200,Medium
+General Fitness,Advanced,35,No Equipment,Advanced Bodyweight Circuit,260,High
+General Fitness,Advanced,40,Dumbbells,Athletic Conditioning,320,High
+General Fitness,Advanced,45,Gym Machines,Mixed Cardio and Strength,350,High
+Endurance,Beginner,20,No Equipment,Steady Walking,100,Low
+Endurance,Beginner,25,No Equipment,Easy Cycling,130,Low
+Endurance,Intermediate,30,No Equipment,Steady Jogging,240,Medium
+Endurance,Intermediate,40,Exercise Bike,Cycling Endurance Session,280,Medium
+Endurance,Advanced,45,No Equipment,Tempo Running,400,High
+Endurance,Advanced,50,Exercise Bike,Long Cycling Session,420,High
