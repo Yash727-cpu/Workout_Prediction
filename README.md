@@ -1,5 +1,9 @@
 # Workout Recommendation System using KNN and K-Means
 
+## Live app
+
+Try the public app: [Workout Recommendation System](https://workoutprediction-pntm3iup8ss2x78oyvrifq.streamlit.app/)
+
 ## What it does
 - Takes fitness goal, fitness level, available time, and equipment as input.
 - Uses preprocessing (one-hot encoding and scaling).
@@ -45,7 +49,7 @@ Streamlit Community Cloud can host this app at a public URL so anyone with the l
 2. Open [share.streamlit.io](https://share.streamlit.io/) and sign in with GitHub.
 3. Choose **Create app** and select the `Yash727-cpu/Workout_Prediction` repository.
 4. Set the branch to `main` and the main file path to `app.py`, then deploy.
-5. When deployment finishes, share the generated `*.streamlit.app` URL.
+5. When deployment finishes, add the generated `*.streamlit.app` URL to the **Live app** link above.
 
 The deployed app is public to anyone with its URL. The GitHub repository and included sample data are public too, so do not add private data or credentials.
 
