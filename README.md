@@ -37,6 +37,18 @@
    ```
 8. A browser tab should open. Choose preferences and click **Recommend workouts**.
 
+## Deploy publicly with Streamlit Community Cloud
+
+Streamlit Community Cloud can host this app at a public URL so anyone with the link can open it:
+
+1. Push the project to a GitHub repository. The repository must include `app.py`, `workouts.csv`, and `requirements.txt`.
+2. Open [share.streamlit.io](https://share.streamlit.io/) and sign in with GitHub.
+3. Choose **Create app** and select the `Yash727-cpu/Workout_Prediction` repository.
+4. Set the branch to `main` and the main file path to `app.py`, then deploy.
+5. When deployment finishes, share the generated `*.streamlit.app` URL.
+
+The deployed app is public to anyone with its URL. The GitHub repository and included sample data are public too, so do not add private data or credentials.
+
 ## Project workflow (for your report)
 1. Select the problem: users need help choosing suitable workouts.
 2. Define objectives: personalize workout suggestions using KNN and K-Means.

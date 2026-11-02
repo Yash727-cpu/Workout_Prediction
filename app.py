@@ -85,4 +85,4 @@ with st.expander("About the dataset and algorithms"):
     st.write("**KNN:** compares your preferences with workout records and returns the closest matches.")
     st.write("**K-Means:** groups workout records with similar feature patterns into clusters.")
     st.write("**Preprocessing:** one-hot encodes categories and scales duration before distance-based modeling.")
-    st.dataframe(data.drop(columns=["cluster"]), use_container_width=True)
+    st.dataframe(data.drop(columns=["cluster"]), width="stretch")
